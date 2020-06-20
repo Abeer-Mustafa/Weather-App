@@ -3,7 +3,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Abeer Mustafa
 
 # About
-It's a Weather Application that allows collecting information about the weather of somewhere that user enters it and this information includes: city, country, temperature, humidity, and description
+It's a Weather Application that allows collecting information about the weather of somewhere that user enters it and this information includes: city, country, temperature, humidity, and description.
+#
+![Weather App](home.png)
 
 ## Available Scripts
 
