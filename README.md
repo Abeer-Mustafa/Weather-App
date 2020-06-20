@@ -1,4 +1,4 @@
-# Weathe Application
+# Weather Application
 
 It's a Weather Application that allows collecting information about the weather of somewhere that user enters it and this information includes: city, country, temperature, humidity, and description.
 
