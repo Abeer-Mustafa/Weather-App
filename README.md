@@ -1,4 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# By
+Abeer Mustafa
+
+# About
+It's a Weather Application that allows collecting information about the weather of somewhere that user enters it and this information includes: city, country, temperature, humidity, and description
 
 ## Available Scripts
 
