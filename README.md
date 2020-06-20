@@ -5,7 +5,7 @@ It's a Weather Application that allows collecting information about the weather 
 ## By Abeer Mustafa
 
 ![Weather App](home.png)
-
+#
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
